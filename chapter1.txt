@@ -1,0 +1,10 @@
+This is start of the story.
+This is awesome.
+AwesomeThis is start of the story.
+This is awesome.
+Awesome.
+
+:wq
+:vq
+:wq!
+
